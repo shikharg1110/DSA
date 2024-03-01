@@ -1,0 +1,2 @@
+
+    InsertAtTail(tail, 6);
